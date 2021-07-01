@@ -1,0 +1,16 @@
+{
+  "name": "tarea_1",
+  "version": "1.0.0",
+  "description": "Tarea 1 modulo nivelador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing Tarea 1 del Modulo Nivelador\""
+  },
+  "author": "Danny Barrantes Moya",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "espress": "0.0.0",
+    "express": "^4.17.1"
+  }
+}
